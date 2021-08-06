@@ -2,5 +2,6 @@
 My name is Rahmat
 I love this program.
 I have learnt alot here.
-I will to learn more.
+I will love to learn more.
 AWS on my mind now.
+Let's Explore.
